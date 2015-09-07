@@ -14,3 +14,7 @@
 .menu li{
 	float: left;
 }
+.sidebar{
+	float: right;
+	width: 200px;
+}
