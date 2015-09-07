@@ -14,7 +14,10 @@
 .menu li{
 	float: left;
 }
-
 .main{
 	background-color: #fff;
+}
+.sidebar{
+	float: right;
+	width: 200px;
 }
